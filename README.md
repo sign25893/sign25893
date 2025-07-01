@@ -69,10 +69,6 @@ Platforms:   ESP32 / Microcontrollers / Linux / Web
   <img src="https://github-profile-trophy.vercel.app/?username=sign25893&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/sign25893" alt="GitHub Metrics" />
-</p>
-
 ---
 
 ### ⚡ Fun Fact
