@@ -50,7 +50,7 @@ Currently, I’m developing industrial and home **automation systems**, though m
 
 ```text
 Languages:   C / Python / HTML / CSS / JavaScript
-Tools:       ESP-IDF / PlatformIO / LVGL / WebSockets / Git
+Tools:       ESP-IDF / Arduino IDE / LVGL / WebSockets / Git
 Platforms:   ESP32 / Microcontrollers / Linux / Web
 ```
 
