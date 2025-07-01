@@ -1,34 +1,89 @@
-### Hi there 👋, my name is Sergey
-#### I am a developer of ESP32, embded systems, as well as python developer: websockets, websites.
-![I am a developer of ESP32, embded systems, as well as python developer: websockets, websites.](https://img.shields.io/badge/sign25893)
+<h1 align="center">Hi there 👋, I'm Sergey</h1>
+<h3 align="center">Embedded systems & Python developer | ESP32 enthusiast | Automation builder</h3>
 
-I've been involved in development since childhood, from low-level controller programming, to game creation. I managed to work in different companies as a programmer and designer, and during a break for a couple of days even as a store clerk. 
-At the moment I am engaged in the development of automation systems, most of my projects I can not put in the public domain, because I forbid the privacy policy of my company. However, some parts and personal projects are in my profile.
+---
 
-Welcome to my shalash!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sign25893&show_icons=true&theme=tokyonight" alt="Sergey GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sign25893&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-Translated with DeepL.com (free version)
+---
 
-Skills: C / ESP32 / PYTHON / HTML / CSS / JS
+### 🚀 About Me
 
-- 🔭 I’m currently working on on an interesting project, I want to create a unique-universal LVGL builder right from your browser with automatic updating on ESP32, not only that, you can prescribe your own action functionality, you decide how your ESP32 will behave with display and LVGL right from a simple builder in your browser! 
-- 🌱 I’m currently learning automatic systems of automation of technical processes with the use of ESP32, as well as constantly improving my qualification within the framework of already existing knowledge. 
-- 👯 I’m looking to collaborate on espressif 
-- 🤔 I’m looking for help with people 
-- 💬 Ask me about how I'm doing. 
-- 📫 How to reach me: on social media or by mail 
-- ⚡ Fun fact: From a clerk in a liquor store to a mid-level developer of complex systems, including automation 
+I'm an embedded systems developer with a focus on **ESP32**, **C**, and **Python**. I’ve been programming since childhood — from low-level microcontroller code to game development and full-stack applications.
 
+Over the years, I’ve worked in different roles: **developer**, **designer**, and even a **store clerk** for a short break — but my heart always stayed in tech.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sign25893)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@baby_coder)  
+Currently, I’m developing industrial and home **automation systems**, though many of my projects are private due to company policies. But some personal and open contributions are available here on my GitHub.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+> **Welcome to my _shalash_ (digital hut)!**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sign25893)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sign25893)](https://github.com/anuraghazra/github-readme-stats)
+### 💡 Current Focus
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sign25893&show_icons=true)  
+🔧 Working on a **universal LVGL UI builder** for ESP32 — directly in your browser  
+⚡ Featuring **real-time syncing**, **custom actions**, and drag-n-drop interface  
+📲 It will allow you to design, test, and flash interfaces on the fly  
 
-![GitHub metrics](https://metrics.lecoq.io/sign25893)  
+---
 
+### 🧠 Always Learning
+
+- Automation of technical processes with ESP32  
+- Advanced C & LVGL usage  
+- Web technologies: `WebSockets`, `HTML/CSS/JS`, and `Python (FastAPI)`  
+
+---
+
+### 🤝 Let’s Collaborate
+
+- 🧩 Interested in **Espressif** projects  
+- 👥 Open to contributing or co-developing tools for ESP32  
+- 📢 Reach out to me on social media or by email  
+
+---
+
+### 🛠️ Tech Stack
+
+```text
+Languages:   C / Python / HTML / CSS / JavaScript
+Tools:       ESP-IDF / PlatformIO / LVGL / WebSockets / Git
+Platforms:   ESP32 / Microcontrollers / Linux / Web
+```
+
+---
+
+### 📫 Find Me Online
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/sign25893)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/@baby_coder)
+
+---
+
+### 🌟 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sign25893&theme=tokyonight" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/sign25893" alt="GitHub Metrics" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> From a **liquor store clerk** to a **mid-level systems developer** — it's been a fun ride.
+
+---
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+
+---
